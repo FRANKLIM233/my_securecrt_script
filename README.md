@@ -4,8 +4,9 @@ requirements:
   python 3 or upper,openpyxl,Secure CRT 8.0.0 or upper  
 compatible with HuaWei MA5800T,MA5680T  ZTE C300,C600  
 auto count problems, add to sheet  
-Secure CRT python脚本  
 
+  
+Secure CRT python脚本  
 python3或以上版本，openpyxl，Secure CRT 8.0.0或以上版本  
 适用于 华为 MA5800T,MA5680T 中兴C300,C600  
 1.exe用于自动提取型号，ip，端口  
