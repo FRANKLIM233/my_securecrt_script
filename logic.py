@@ -347,7 +347,7 @@ for i in range(len(list_port1)):
 
 # DeviceType = crt.Dialog.Prompt("input: 5680 or 5800 or 300 or 600 ", "Device Type:", "", False)
 for a in range(len(list_ip)):
-    if list_ip[i]!='0':
+    if list_ip[a]!='0':
         crt.Screen.Send('/'+list_ip[a]+'\r\n')
         crt.Screen.WaitForString('请输入 : ')
         crt.Screen.Send('0'+'\n')
